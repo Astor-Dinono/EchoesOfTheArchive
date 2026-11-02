@@ -1,0 +1,7 @@
+{
+  "FileVersion": 3,
+  "EngineAssociation": "4.27",
+  "Category": "Games",
+  "Description": "Echoes of the Archive",
+  "Modules": [{"Name": "EchoesOfTheArchive", "Type": "Runtime", "LoadingPhase": "Default"}]
+}
